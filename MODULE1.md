@@ -8,10 +8,10 @@ Please read the Unit Guide and “How to study and participate in SIT254” befo
 Please also attend the scheduled online seminars each week.
 
 ### Objectives for this module
-Introduction to games and being a game designer
-Focus on early games
-Introduction to game as a system
-Defining your role in games design
+- Introduction to games and being a game designer
+- Focus on early games
+- Introduction to game as a system
+- Defining your role in games design
 
 ### How this module links to assessment?
 This module addresses content relevant to unit learning outcomes two and three of SIT254, as it helps you to understand the role of a game designer and how they contribute to a game project. This information directly supports your activities in assessment 2 - Group computer game prototype and design documentation.
