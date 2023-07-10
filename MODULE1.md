@@ -8,6 +8,7 @@ Please read the Unit Guide and “How to study and participate in SIT254” befo
 Please also attend the scheduled online seminars each week.
 
 ### Objectives for this module
+
 - Introduction to games and being a game designer
 - Focus on early games
 - Introduction to game as a system
@@ -23,33 +24,31 @@ Complete each activity and discussion question as outlined below.
 Through contributing in discussion questions you will receive feedback from the teaching staff.
 
 ## 2. What is a game?
-A game is a type of play activity, conducted in the context of a pretended reality, in which the participant(s) tries to achieve at least one arbitrary, nontrivial goal by acting in accordance with rules. To achieve this definition of a game we need to:
+A game is a type of play *activity*, conducted in the context of a pretended *reality*, in which the participant(s) tries to achieve at least one *arbitrary*, *nontrivial goal* by acting in accordance with *rules*. To achieve this definition of a game we need to:
 
-Outline the objective/victory condition of the game
-Provide meaning to activities and events that occur in the game
-Construct a contextual framework of permitted activities which evaluate action in the game
- 
+- Outline the objective/victory condition of the game
+- Provide meaning to activities and events that occur in the game
+- Construct a contextual framework of permitted activities which evaluate action in the game
 
-Discussion activity
+***Discussion activity***
 
-Answer the following question, and post your answer for feedback to the Module 1 student discussion: 
+*Answer the following question, and post your answer for feedback to the Module 1 student discussion:*
 
-What do you think it means to construct a contextual framework of permitted activity when designing a game?
+*What do you think it means to construct a contextual framework of permitted activity when designing a game?*
 
- 
+***Learning activity***
 
-Learning activity
+*You are being asked to post your answers for feedback to the Module 1 student discussion. As a game designer, what would it take to ensure that this action provides value for you as a member of the class? What actions will you be taking to achieve this value?*
 
-You are being asked to post your answers for feedback to the Module 1 student discussion. As a game designer, what would it take to ensure that this action provides value for you as a member of the class? What actions will you be taking to achieve this value?
+*You are being asked to take personal responsibility and explicit actions during this trimester to apply the concepts you learn to create a fun and effective learning environment.*
 
-You are being asked to take personal responsibility and explicit actions during this trimester to apply the concepts you learn to create a fun and effective learning environment.
 
- 
-
-3.                Game design origins
+## 3. Game design origins
 Some of the earliest evidence of human play can be found in the board games uncovered in ancient burial grounds or depicted in ancient drawings and carvings. Initially simple folk objects carved into: Earth, wood or stone composition as shown in the figure below.
 
-https://d2l.deakin.edu.au/content/enforced/1193531-SIT254_TRI-1_2022/PastedImage_8a1yapc7330fhatro8dzaugpn3ufsmgs001100329708.png?_&d2lSessionVal=cmX779AQd2MLC8i3trFDehFn1&ou=1193531
+![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
+
+<https://d2l.deakin.edu.au/content/enforced/1193531-SIT254_TRI-1_2022/PastedImage_8a1yapc7330fhatro8dzaugpn3ufsmgs001100329708.png?_&d2lSessionVal=cmX779AQd2MLC8i3trFDehFn1&ou=1193531>
 
 The oldest games were found at sites of ancient civilizations: Egypt, Cyprus, Palestine, Iraq, Iran and Jordan. They provide many archetypical features we understand as a part of modern games. These include: often games of chance over games of strategy – i.e. chess
 
