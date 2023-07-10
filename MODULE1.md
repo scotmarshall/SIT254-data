@@ -30,6 +30,7 @@ A game is a type of play *activity*, conducted in the context of a pretended *re
 - Provide meaning to activities and events that occur in the game
 - Construct a contextual framework of permitted activities which evaluate action in the game
 
+
 ***Discussion activity***
 
 *Answer the following question, and post your answer for feedback to the Module 1 student discussion:*
@@ -46,9 +47,7 @@ A game is a type of play *activity*, conducted in the context of a pretended *re
 ## 3. Game design origins
 Some of the earliest evidence of human play can be found in the board games uncovered in ancient burial grounds or depicted in ancient drawings and carvings. Initially simple folk objects carved into: Earth, wood or stone composition as shown in the figure below.
 
-![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
-
-<https://d2l.deakin.edu.au/content/enforced/1193531-SIT254_TRI-1_2022/PastedImage_8a1yapc7330fhatro8dzaugpn3ufsmgs001100329708.png?_&d2lSessionVal=cmX779AQd2MLC8i3trFDehFn1&ou=1193531>
+![Some of the earliest evidence of human play can be found in the board games uncovered in ancient burial grounds or depicted in ancient drawings and carvings.!](https://d2l.deakin.edu.au/content/enforced/1363856-SIT254_TRI-2_2023/File_v6nq1bufsgy7ruh0rffndr8syompik27001152961685.png?_&d2lSessionVal=jQ15ChGY3s0jb8k3uS2dE54sm&ou=1363856 "Board games uncovered in ancient burial grounds")
 
 The oldest games were found at sites of ancient civilizations: Egypt, Cyprus, Palestine, Iraq, Iran and Jordan. They provide many archetypical features we understand as a part of modern games. These include: often games of chance over games of strategy – i.e. chess
 
