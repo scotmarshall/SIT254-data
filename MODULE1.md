@@ -51,27 +51,28 @@ Some of the earliest evidence of human play can be found in the board games unco
 
 The oldest games were found at sites of ancient civilizations: Egypt, Cyprus, Palestine, Iraq, Iran and Jordan. They provide many archetypical features we understand as a part of modern games. These include: often games of chance over games of strategy – i.e. chess
 
-Example: Mancala
+### Example: Mancala
 Come from the Arabic word ‘nagala’ meaning literally ‘to move’. It is the oldest Neolithic version of a game. Mancala was uncovered in Jordan around 6900 BC. This type of game includes: counting, sowing or capture elements as the main forms of play. Mancala is actually a type of game, not a specific game installation. It was based on prevalent social/cultural activity of the time, which was farming.
 
 Moves in Mancala are created as the players select an indentation between the two rows of indentations, and, one by one, distribute tokens (sowing seeds).
 
-Mancala is the most popular arithmetical game in the world. It can be played as a game of pure chance. However, most people play it strategically by counting the tokens. Mancala is a game of perfect information; all game information is known to the player upfront.
+Mancala is the most popular arithmetical game in the world. It can be played as a game of pure chance. However, most people play it strategically by counting the tokens. Mancala is a game of *perfect* information; all game information is known to the player upfront.
 
 The Neolithic period was a revolutionary era in human evolution, during which humans became recognizable Homo sapiens and developed agrarian culture capable of reflecting on the whims of nature and fate. The figure below shows an example carved into rock, with a more modern version to follow.
 
-https://d2l.deakin.edu.au/content/enforced/1193531-SIT254_TRI-1_2022/PastedImage_ddyzcl284l0swmyzyq7amtuhai41xvrd001100329708.png?_&d2lSessionVal=cmX779AQd2MLC8i3trFDehFn1&ou=1193531
+![Mancala was uncovered in Jordan around 6900 BC.!](https://d2l.deakin.edu.au/content/enforced/1363856-SIT254_TRI-2_2023/File_t0qdp8te3ftghz2z4g9ppssw955qrpsf001152961685.png?_&d2lSessionVal=jQ15ChGY3s0jb8k3uS2dE54sm&ou=1363856h "The figure below shows an example carved into rock")
 
-https://d2l.deakin.edu.au/content/enforced/1193531-SIT254_TRI-1_2022/PastedImage_vc1ijybj8f33odvbf8zryof0eylvwfo8001100329708.png?_&d2lSessionVal=cmX779AQd2MLC8i3trFDehFn1&ou=1193531
+![Mancala was uncovered in Jordan around 6900 BC.!](https://d2l.deakin.edu.au/content/enforced/1363856-SIT254_TRI-2_2023/File_5on770vg2v2pjez03c8yib0fa127dvpe001152961685.png?_&d2lSessionVal=jQ15ChGY3s0jb8k3uS2dE54sm&ou=1363856 "A more modern version to follow")
 
-What Mancala can tell us?
+### What Mancala can tell us?
 Being such early evidence of human play, Mancala resembles contemporary games boards by:
 
-Having territories
-Actions
-Rules
-Tokens
-Feedback
+- Having territories
+- Actions
+- Rules
+- Tokens
+- Feedback
+
 The fact that these early Mancala boards were developed and customised speaks to the aesthetic importance of games and how the play experience has, for thousands of years, been intertwined with aesthetics.
 
 Discussion activity
