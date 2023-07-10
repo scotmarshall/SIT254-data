@@ -146,7 +146,7 @@ In the description of early games, reference was made to the use of 'actions', '
 
 ***Discussion activity***
 
-*In 2016 some great games, made by Aussie developers, where released! Please read this article, our favourite aussie games of 2016, [[https://press-start.com.au/features/2016/12/16/favourite-aussie-games-2016/]] and then share on the Module 1 student discussion some of the best games you have played recently.*
+*In 2016 some great games, made by Aussie developers, where released! Please read this article, our favourite aussie games of 2016, (https://press-start.com.au/features/2016/12/16/favourite-aussie-games-2016/) and then share on the Module 1 student discussion some of the best games you have played recently.*
 
 *Answer the following question, and post your answer for feedback to the Module 1 student discussion*
 
@@ -175,14 +175,14 @@ From an IT perspective, we look at the design of games as a **gameplay system**.
 
 ***Discussion activity***
 
-***Read Illusions about being a game designer [[https://gamecareerguide.com/features/701/student_illusions_about_being_a_.php?page=2]] before continuing.***
+***Read Illusions about being a game designer (https://gamecareerguide.com/features/701/student_illusions_about_being_a_.php?page=2) before continuing.***
 
 *Answer the following question, and post your answer for feedback to the Module 1 student discussion:*
 
 *Investigate 3 different game designers of your choice. What makes them good? What is their process of game design? Note down your research addressing the following in a short presentation: Name, Company (past and present), current working title, titles worked on, game design philosophy.*
 
 ## 8. Anatomy of being a game designer
-There are many potential roles in game design. Review games industry job roles ([[https://www.screenskills.com/job-profiles/browse/games/]]) to get the full picture. Of important to this class, we will focus on the following roles.
+There are many potential roles in game design. Review games industry job roles (https://www.screenskills.com/job-profiles/browse/games/) to get the full picture. Of important to this class, we will focus on the following roles.
 
 - Lead game designer
 - Environment designer
